@@ -6,7 +6,7 @@
 ![](img/soal2.PNG)
 
 # latihan 1
-> len(length) berfungs untuk menghitung jumlah karakter
+> len (length) berfungs untuk menghitung jumlah karakter
 
 > replace berfungsi untuk merubah karakter
 
